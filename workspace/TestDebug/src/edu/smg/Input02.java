@@ -22,7 +22,7 @@ public class Input02 {
 //        
         String[] acceptableValues = {"Chocolate", "Cake", "Ice cream", "Carrot cake"};
         String input2 = (String)JOptionPane.showInputDialog(null,
-                "Choose your favourite dessert",
+                "Cioose your favourite dessert",
                 "Nom nom",
                 3,
                 null,
